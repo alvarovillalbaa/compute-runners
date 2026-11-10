@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "source_repository": "alvarovillalbaa/lab",
+  "source_revision": "ba67e510bab2703b1042993744ce099490221c1f",
+  "original_main": "36bb3839f1bc166fa54824fd8457b28ca5189dae",
+  "history_policy": "Original history remains in Lab; extraction commit preserves original bytes; subsequent commits adapt interfaces.",
+  "sources": [
+    {
+      "path": "docs/specs/steps.md",
+      "section": 6,
+      "start_line": 204,
+      "end_line": 262
+    }
+  ]
+}
